@@ -1,4 +1,4 @@
-#ViaGolf
+# ViaGolf
 ViaGolf is the platform for roster management and scoring for the Viasat Golf League. It's currently built on a Docker container running a PostGres SQL DB, and some python code to query the DB, pull player and score data, and calculate results.
 
 This is a slow work in progress, and likely done poorly :)
