@@ -1,0 +1,132 @@
+rounds:
+  - player_handicaps:
+      Player A: 10
+      Player B: 15
+    holes:
+      - hole: 1
+        handicap: 5
+        scores:
+          - player: Player A
+            score: 4
+          - player: Player B
+            score: 5
+      - hole: 2
+        handicap: 12
+        scores:
+          - player: Player A
+            score: 3
+          - player: Player B
+            score: 4
+      - hole: 3
+        handicap: 8
+        scores:
+          - player: Player A
+            score: 5
+          - player: Player B
+            score: 5
+      - hole: 4
+        handicap: 14
+        scores:
+          - player: Player A
+            score: 4
+          - player: Player B
+            score: 6
+      - hole: 5
+        handicap: 2
+        scores:
+          - player: Player A
+            score: 3
+          - player: Player B
+            score: 4
+      - hole: 6
+        handicap: 10
+        scores:
+          - player: Player A
+            score: 4
+          - player: Player B
+            score: 5
+      - hole: 7
+        handicap: 16
+        scores:
+          - player: Player A
+            score: 5
+          - player: Player B
+            score: 6
+      - hole: 8
+        handicap: 7
+        scores:
+          - player: Player A
+            score: 4
+          - player: Player B
+            score: 4
+      - hole: 9
+        handicap: 1
+        scores:
+          - player: Player A
+            score: 3
+          - player: Player B
+            score: 5
+      - hole: 10
+        handicap: 11
+        scores:
+          - player: Player A
+            score: 4
+          - player: Player B
+            score: 4
+      - hole: 11
+        handicap: 4
+        scores:
+          - player: Player A
+            score: 3
+          - player: Player B
+            score: 5
+      - hole: 12
+        handicap: 17
+        scores:
+          - player: Player A
+            score: 5
+          - player: Player B
+            score: 6
+      - hole: 13
+        handicap: 9
+        scores:
+          - player: Player A
+            score: 4
+          - player: Player B
+            score: 5
+      - hole: 14
+        handicap: 15
+        scores:
+          - player: Player A
+            score: 4
+          - player: Player B
+            score: 6
+      - hole: 15
+        handicap: 3
+        scores:
+          - player: Player A
+            score: 3
+          - player: Player B
+            score: 4
+      - hole: 16
+        handicap: 13
+        scores:
+          - player: Player A
+            score: 5
+          - player: Player B
+            score: 5
+      - hole: 17
+        handicap: 6
+        scores:
+          - player: Player A
+            score: 4
+          - player: Player B
+            score: 6
+      - hole: 18
+        handicap: 18
+        scores:
+          - player: Player A
+            score: 5
+          - player: Player B
+            score: 7
+
